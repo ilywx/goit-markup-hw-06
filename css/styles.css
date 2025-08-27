@@ -290,10 +290,6 @@ a {
     padding: 0;
 }
 
-.mobile-menu-nav.current {
-    margin-bottom: 48px;
-}
-
 .mobile-menu-nav {
     margin-bottom: 48px;
 }
@@ -369,12 +365,6 @@ a {
 
 .social-icon {
     fill: #f4f4fd;
-}
-
-@media screen and (min-width: 768px) {
-    .mobile-menu {
-        display: none;
-    }
 }
 
 /*Main page*/
